@@ -2,7 +2,7 @@
 
 Hello and welcome!
 
-This simple app allows you to browse through a list of my favorite albums and explore some data visualizations about them.
+This simple App allows you to browse through a list of my favorite albums and explore some data visualizations about them.
 
 ## Motivation
 
