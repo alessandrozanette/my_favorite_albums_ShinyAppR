@@ -1,4 +1,4 @@
-# My Favorite Album App :musical_note:
+# My Favorite Albums App :musical_note:
 
 Hello and welcome!
 
